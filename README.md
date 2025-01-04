@@ -1,7 +1,7 @@
-# LockTalk - A fullstack Chat App
-## A chat app built using the MERN stack (MongoDB, Express.js, React, and Node.js) offering real-time messaging and media sharing.
+## LockTalk - A fullstack Chat App
+### A chat app built using the MERN stack (MongoDB, Express.js, React, and Node.js) offering real-time messaging and media sharing.
 
-## Architecture Overview
+### Architecture Overview
 Frontend: Built with React.js for an interactive user interface.
 - Allows users to send and receive messages.
 - Displays real-time updates using Socket.IO.
@@ -19,5 +19,8 @@ Database: MongoDB for storing chat data.
 Real-time Communication:
 -Socket.IO: Enables bi-directional communication for real-time message delivery.
 
-## Screenshot
+### Screenshot
 ![Screenshot 2025-01-04 220325](https://github.com/user-attachments/assets/20c1f14f-b3fe-4010-a8e4-1d074895b994)
+
+### App is live on 
+https://locktalk.onrender.com/login
